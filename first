@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>1등 당첨</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+            background-color: #f9f9f9;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            margin-top: 20%;
+        }
+        h1 {
+            font-size: 2.5em;
+            color: #ff4500;
+        }
+        p {
+            font-size: 1.5em;
+            color: #555;
+        }
+        .highlight {
+            color: #007bff;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🎉 축하합니다! 🎉</h1>
+        <p>1등에 당첨되셨습니다!</p>
+        <p class="highlight">상품은 편의점 기프티콘입니다! 🛍️</p>
+    </div>
+</body>
+</html>
